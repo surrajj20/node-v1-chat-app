@@ -5,16 +5,15 @@
 ![fork](https://img.shields.io/github/forks/surrajj20/node-v1-chat-app)
 [![dev](https://img.shields.io/badge/developed%20by%20-suraj%20sah-blue)](https://surrajj20.github.io/Portfolio-of-SURAJ-SAH/)
 ![love](https://img.shields.io/badge/open%20%20source-%E2%9D%A4-red)
-[![License: ISC](https://img.shields.io/badge/License-ISC-orange.svg)](https://opensource.org/licenses/ISC)
 
 
-# node-v1-chat-app </br>
+# Chat App
 
-***Simple Chat-App were you can join in one room and chat with your friends.*** </br> 
-***You can send your location also and its visible to everyone available in chat room*** </br>
+1. Simple Chat App where you can join any room and chat with all the people present there.
+2. Also you can send your current Location to the chat room and all people heve access to it.
 
-**Click here to visit the Web-App**</br>
-https://shah20-node-v1-chat-app.herokuapp.com/
+**Click here and start chatting**<br>
+- [Go To The App](https://shah20-node-v1-chat-app.herokuapp.com/)
 
 
 <hr>
