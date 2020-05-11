@@ -1,3 +1,9 @@
+![nodejs](https://img.shields.io/badge/NodeJs-Framework-blue?logo=nodejs)
+![JavaScript](https://img.shields.io/badge/JavaScript-Language-Red?logo=javascript)
+![Stars](https://img.shields.io/github/stars/surrajj20/node-v1-chat-app)
+![issues](https://img.shields.io/github/issues/surrajj20/node-v1-chat-app)
+![fork](https://img.shields.io/github/forks/surrajj20/node-v1-chat-app)
+
 # node-v1-chat-app </br>
 
 ***Simple Chat-App were you can join in one room and chat with your friends.*** </br> 
