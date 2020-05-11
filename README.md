@@ -3,7 +3,7 @@
 ![Stars](https://img.shields.io/github/stars/surrajj20/node-v1-chat-app)
 ![issues](https://img.shields.io/github/issues/surrajj20/node-v1-chat-app)
 ![fork](https://img.shields.io/github/forks/surrajj20/node-v1-chat-app)
-![dev](https://img.shields.io/badge/developed%20by%20-suraj%20sah-blue)
+[![dev](https://img.shields.io/badge/developed%20by%20-suraj%20sah-blue)](https://surrajj20.github.io/Portfolio-of-SURAJ-SAH/)
 ![love](https://img.shields.io/badge/open%20%20source-%E2%9D%A4-red)
 [![License: ISC](https://img.shields.io/badge/License-ISC-orange.svg)](https://opensource.org/licenses/ISC)
 
